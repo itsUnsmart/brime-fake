@@ -14,6 +14,10 @@
 	p, h2 {
 		margin: 1em auto;
 	}
+
+  #bold {
+    font-weight: bold;
+  }
   
 	@media (min-width: 480px) {
 		h1 {
@@ -73,7 +77,7 @@
   be understanding of the people who think their service is fake and not come out saying things like "Yeah. No" or 
   "Sorry to hear you were misinformed" (<a href="https://twitter.com/WatchBrime/status/1283351091686457345">Tweet Here</a>) to people who
   do not believe the service is real. On top of all of that a real company would never block anyone for believing a product is fake whenever
-  they have given 0 proofs to it even existing. They have banned multiple multiple people including myslef from discord, as well as blocking
+  they have given 0 proofs to it even existing. They have banned <span id="bold">multiple multiple</span> people including myslef from discord, as well as blocking
   people on Twitter.
 
   </p>
